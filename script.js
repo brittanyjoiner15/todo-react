@@ -233,13 +233,3 @@ class App extends React.Component {
 }
 
 ReactDOM.render(<App />, document.getElementById("root"));
-
-// <table className="table table-responsive">
-//             <thead>
-//               <tr>
-//                 <th scope="col">Task Name</th>
-//                 <th scope="col">Status</th>
-//               </tr>
-//             </thead>
-//             <tbody>We will add task component once built</tbody>
-//           </table>
